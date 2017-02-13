@@ -1,6 +1,6 @@
 SiiNunit
 {
-live_stream_def : _nameless.52d.35d0 {
+live_stream_def : .live_streams {
  stream_data:
  stream_data[]: "http://radio.truckers.fm/|Truckers.fm|Misc|ETS2MP|128|1"
  stream_data[]: "http://playerservices.streamtheworld.com/api/livestream-redirect/M80RADIO_SC|M80 Radio|80s|ES|128|1"
