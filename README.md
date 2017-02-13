@@ -10,6 +10,10 @@ Go to Releases pages (https://github.com/wolfgta/ets2radios/releases) and downlo
 ## Can i add more radios?
 YES!! You can add the quantity of radios you want but you should respect the format of the file hosted here. There is a bug who provocate misconfiguration and ETS2 can't see radios listed. More info at: https://www.scaniadrivergame.com/en/radios.php
 
+*stream_data[]: "http://streaming.radionomy.com/JamendoLounge|Jamendo Lounge"*
+
+*stream_data[]: "http://streaming.radionomy.com/DRIVE|DRIVE"*
+
 +++++++++++++++++++++++🐾🐺🐾+++++++++++++++++++++++
 # Español
 ## ¿Qué es esto?
@@ -21,6 +25,9 @@ Ve a la página de versiones de este repositorio --> https://github.com/wolfgta/
 ## ¿Se puede añadir mas radios?
 ¡SÍ! Se pueden añair cuantas radios quisieras pero siempre y cuando respetes el formato. Hay un error que colocando las nuevas radios cuando ya está listado el archivo con las radios, no reconoce ninguna radio. Es un error del juego.
 
+*stream_data[]: "http://streaming.radionomy.com/JamendoLounge|Jamendo Lounge"*
+
+*stream_data[]: "http://streaming.radionomy.com/DRIVE|DRIVE"*
 
 +++++++++++++++++++++++🐾🐺🐾+++++++++++++++++++++++
 # List of Radios / Lista de Radios
