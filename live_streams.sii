@@ -27,7 +27,7 @@ live_stream_def : .live_streams {
  stream_data[]: "http://195.55.74.208/rtva/canalsurradio_master.mp3|Canal Sur|Info & Music|128|1"
  stream_data[]: "http://195.10.2.99/rtva/canalfiestaradio_master.mp3|Canal Fiesta|Flamenco|ES|128|1"
  stream_data[]: "http://ibizaglobalradio.streaming-pro.com:8024|Ibiza Global Radio|Misc|ES|128|1"
- stream_data[]: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE_SC|Radio ole|Flamenco|ES|128|1"
+ stream_data[]: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE_SC|Radiole|Flamenco|ES|128|1"
  stream_data[]: "http://195.10.10.222/cope/megastar.mp3|MegaStar FM|\xc3\x89xitos|ES|128|1"
  stream_data[]: "http://icecast-streaming.nice264.com/bilbao|Onda Cero|Pop|ES|128|1"
  stream_data[]: "http://195.55.74.212/cope/net1.mp3|Radio Cope|Info|ES|128|1"
