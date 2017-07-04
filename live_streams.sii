@@ -48,6 +48,7 @@ live_stream_def : .live_streams {
  stream_data[]: "http://195.10.10.206/rtva/canalflamenco.mp3|Flamenco Radio||ES|128|1"
  stream_data[]: "http://streaming.radionomy.com/RAP-ON-AIR-RADIO?|RAP ON AIR 24H||ES|128|1"
  stream_data[]: "http://streaming8.elitecomunicacion.es:8220/|LA MEGA||ES|128|1"
+ stream_data[]: "http://radio.trucksimradio.com:8002/stream.mp3|TruckSim Radio|Variado|EN|128|1"
 }
 
 }
